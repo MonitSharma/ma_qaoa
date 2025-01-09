@@ -28,7 +28,7 @@ This project is licensed under the MIT License.
 ## Citation
 Cite this repository or one of the associated papers, such as:
 
-`
+```
 @INPROCEEDINGS{Lav24,
   author={Lavagna, Leonardo and Ceschini, Andrea and Rosato, Antonello and Panella, Massimo},
   booktitle={2024 International Joint Conference on Neural Networks (IJCNN)}, 
@@ -39,4 +39,4 @@ Cite this repository or one of the associated papers, such as:
   pages={1-8},
   keywords={Costs;Sensitivity;Quantum algorithm;Approximation algorithms;Prediction algorithms;Robustness;Quantum circuit},
   doi={10.1109/IJCNN60899.2024.10650075}}
-  `
+  ```
